@@ -1,4 +1,4 @@
-# Smart Contract Project - Function Frontend - ETH + AVAX
+# Project - Function Frontend - ETH + AVAX
 
 In this project, we are tasked to create a simple contract with 2-3 user-defined functions. The Solidity contract named `myFunctionFrontend.sol` has the necessary Solidity code that enables the displaying of the output to the frontend of the application.
 
